@@ -1,0 +1,10 @@
+body{
+    background-image: url(push.gif);
+    text-align: center;
+}
+.botones{
+    background-color: white;
+    border-radius: 20px;
+    border-color: white;
+    width: 190px;
+}
